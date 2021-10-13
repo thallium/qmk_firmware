@@ -3,7 +3,7 @@ MCU = atmega32u4
 
 # Bootloader selection
 # BOOTLOADER = caterina
-BOOTLOADER = qmk-dfu
+BOOTLOADER = atmel-dfu
 
 # Build Options
 #   change yes to no to disable
